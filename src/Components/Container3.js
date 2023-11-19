@@ -28,7 +28,10 @@ function Container3() {
         </div>
 
         <div>
-          <span className="btn card-btn">Choose Your Card</span>
+          <span className="btn card-btn">
+            Choose Your Card{" "}
+            <i class="fa fa-arrow-right" aria-hidden="true"></i>
+          </span>
         </div>
       </div>
     </div>
